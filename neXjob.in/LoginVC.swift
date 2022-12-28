@@ -48,7 +48,7 @@ class LoginVC: UIViewController {
         txtEmail.layer.shadowRadius = 4.0
         txtEmail.layer.shadowOffset = CGSizeMake(0.0, 1.0)
         
-        
+        //test
         txtPassword.layer.cornerRadius = 10
         txtPassword.layer.borderWidth = 2
         txtPassword.layer.borderColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
