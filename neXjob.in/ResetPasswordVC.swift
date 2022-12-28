@@ -35,7 +35,7 @@ class ResetPasswordVC: UIViewController {
         txtEnterEmail.layer.cornerRadius = 10
         txtEnterEmail.text = "Enter your Email Id"
         txtEnterEmail.textColor = UIColor.lightGray
-        
+        //test
     }
     override func viewWillAppear(_ animated: Bool) {
         txtEnterEmail.text = "   " + (txtEnterEmail.text ?? "   ")
